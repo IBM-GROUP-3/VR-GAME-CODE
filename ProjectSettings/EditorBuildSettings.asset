@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_Main_Menu.unity
+    guid: 69202cebc5ad6f048b6a0154d17400f4
+  - enabled: 1
+    path: Assets/Scenes/_Cognitive_AI.unity
+    guid: 80622fb24907e17449705fd574583013
+  - enabled: 1
+    path: Assets/Scenes/_Generative_AI.unity
+    guid: eaa95d9a8c3ffd8479548c5c9444afd8
+  - enabled: 1
+    path: Assets/Scenes/_Getting_Started_With_AI.unity
+    guid: 6bfc99509b244384fb6c9fdb340c6eb9
+  - enabled: 1
+    path: Assets/Scenes/_ML_&_DL.unity
+    guid: 672c64a01b29a08469c6e8788ee4457d
+  - enabled: 1
+    path: Assets/Scenes/_Watson_AI.unity
+    guid: 58bd1831c8dee274ba1418c21c3bfbfb
+  - enabled: 1
+    path: Assets/Scenes/_NLP_&_CVision.unity
+    guid: 7243e69d7521f804290aa9715f81359b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a1284b341b7371547addac60d84bd5cd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79ac5d30cecb26248abec74ada93a9c3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9a1393c1cce8d444e9a4e2169274421c, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 34fbe8bd7dcffc34082abdfd3375b480, type: 2}
